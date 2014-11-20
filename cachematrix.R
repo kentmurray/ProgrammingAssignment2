@@ -1,4 +1,4 @@
-## Kent Murray, 10/21/2014
+## Kent Murray, 11/18/2014
  
 ## These functions create an object to store and retrieve
 ## an inverted matrix 
